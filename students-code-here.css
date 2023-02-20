@@ -12,13 +12,12 @@
     top: 3em;
     left: 4em;
 }
-.sticky { 
+.luna { 
     position: sticky;
-    top: 30px;
-    
-
+    left:0px;
 }
+
 .top-hat {
-    z-index: ;
+    z-index: 1;
 
 }
